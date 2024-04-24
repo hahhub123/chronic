@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
