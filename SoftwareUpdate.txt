@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
