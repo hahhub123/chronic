@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Batch inference fixes (#8854)
